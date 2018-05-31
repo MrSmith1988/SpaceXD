@@ -1,0 +1,7 @@
+int hasReachedPosition(float target[3]) {
+  // Check distance between currPosition and target. And set a vector threshold, 
+  // so we can decide whether it has "reached" the positon.
+  int hasReached; 
+  // hasReached is either 0 = FALSE 1 = TRUE
+  return hasReached;
+}
