@@ -6,3 +6,4 @@
 - ```float* computeAssembly()```
 - ```Rotate(float[3] attitudeVec)```
 - ```void SPSDrop()```
+- ```int hasReachedPos(float targetPos[3]);
